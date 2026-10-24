@@ -1,0 +1,6 @@
+{
+  "name": "سوق مصر الكبرى | NileMart Enterprise",
+  "description": "منصة التجارة الإلكترونية الشاملة على طراز أمازون مع دعم كامل لوسائل الدفع المصرية، إدارة برامج التقسيط بعقود وإيصالات أمانة قانونية، ونظام محاسبي متكامل (موردين، عملاء، بنوك وخزينة).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
